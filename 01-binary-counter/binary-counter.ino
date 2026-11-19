@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 int bit0Led = 11;
 int bit1Led = 10;
 int bit2Led = 9;
